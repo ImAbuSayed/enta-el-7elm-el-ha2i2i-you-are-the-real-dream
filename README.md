@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نورا يضيء عتمة الليالي
+> أنت الحلم الحقيقي في خيالي
+> أشعر بنار الشوق في الأعماق
+> أطير إليك في سماء الأشواق
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
