@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 27, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/enta-el-7elm-el-ha2i2i-you-are-the-real-dream/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get Permission to Use Enta El 7elm El Ha2i2i – You Are the Real Dream](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
